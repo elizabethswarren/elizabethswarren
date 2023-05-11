@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Data Science at Codeup
-#- 📫 How to reach me: elizabeth.s.warren@gmail.com
 - 😄 Pronouns: She/Her
 
 <!--
@@ -8,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-
+- 📫 How to reach me: elizabeth.s.warren@gmail.com
 - 🌱 I’m currently learning Data Science at Codeup.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
