@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Data Science at Codeup
-- 📫 How to reach me: elizabeth.s.warren@gmail.com
+#- 📫 How to reach me: elizabeth.s.warren@gmail.com
 - 😄 Pronouns: She/Her
 
 <!--
